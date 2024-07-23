@@ -9,4 +9,17 @@
 
 To play this game, copy the URL below into iTerm/Terminal:
 
-```git clone https://github.com/pasqualerossi/So_Long.git && cd So_Long && make && ./so_long game_maps/map1.ber```
+```bash
+https://github.com/maugustooo/So_Long.git && cd So_Long && make download && make && ./so_long maps/map.ber
+```
+
+### if didn't result, install the dependencies
+```bash
+sudo apt-get update && sudo apt-get install xorg libxext-dev zlib1g-dev libbsd-dev
+```
+
+## Features:
+- Only allow the player to exit after collecting every collectible.
+- After collecting a food/dumbells/steroids, the player gain muscle.
+- If you reach the goal physique(pick all collectables) you win.
+- If you pick the enemy wich is fast/food/beer/cigarretes, you lose.
