@@ -15,7 +15,7 @@
 To play this game, copy the URL below into iTerm/Terminal:
 
 ```bash
-https://github.com/maugustooo/So_Long.git && cd So_Long && make download && make && ./so_long maps/map.ber
+git clone https://github.com/maugustooo/So_Long.git && cd So_Long && make download && make && ./so_long maps/map.ber
 ```
 
 ### if didn't result, install the dependencies
