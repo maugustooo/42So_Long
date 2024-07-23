@@ -11,7 +11,7 @@
 # **************************************************************************** #
 
 NAME = so_long
-NAME_BONUS = so_long_bonus
+NAME_BONUS = so_long
 
 CC = cc
 CFLAGS = -Wall -Wextra -Werror -g -Iheaders/
@@ -47,7 +47,7 @@ MINILIBX := minilibx-linux/
 
 
 
-all: $(NAME)
+all: bonus
 
 $(LIBFT):
 	@$(MAKE) -C ./libft

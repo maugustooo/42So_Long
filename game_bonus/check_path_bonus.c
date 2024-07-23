@@ -6,16 +6,23 @@
 /*   By: maugusto <maugusto@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/04 11:16:39 by maugusto          #+#    #+#             */
-/*   Updated: 2024/07/08 11:39:47 by maugusto         ###   ########.fr       */
+/*   Updated: 2024/07/10 14:23:14 by maugusto         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../so_long_bonus.h"
 
-static void	flood_fill(t_idk *game, int height, int width, int **visited)
+static void	visiting(t_idk *game, int height, int width, int **visited)
 {
-	if (visited[height][width] || game->map[height][width] == '1')
+	if (visited[height][width] || game->map[height][width] == '1'
+		|| game->map[height][width] == 'E' ||  game->map[height][width] == 'N')
+	{
+		if (game->map[height][width] == 'E')
+			game->exit_visit = 1;
 		return ;
+	}
+	if (game->map[height][width] == 'C')
+		game->collectables_check++;
 	visited[height][width] = 1;
 	visiting(game, height + 1, width, visited);
 	visiting(game, height - 1, width, visited);
