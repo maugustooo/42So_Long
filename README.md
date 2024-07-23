@@ -10,11 +10,12 @@
 	<h1><a href="https://github.com/maugustooo/So_Long/blob/main/en.subject.pdf">Subject</a></h1>
 </div>
 
-# Features:
+## Features:
 - Only allow the player to exit after collecting every collectible.
 - After collecting a food/dumbells/steroids, the player gain muscle.
 - If you reach the goal physique(pick all collectables) you win.
 - If you pick the enemy wich is fast-food/beer/cigarretes, you lose.
+- 
 # How To Play This Game
 
 To play this game, copy the URL below into iTerm/Terminal:
