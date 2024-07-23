@@ -1,7 +1,5 @@
-# So_Long
-
 <div align="center">
-	<h1>Description</h1>
+	<h1>So_Long</h1>
 	<p>This project is one of the projects of the school 42 where the purpose is to build a small 2D game. You have to work with textures, sprites, and some gameplay mechanics.</p>
 </div>
 
