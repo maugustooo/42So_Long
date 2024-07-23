@@ -1,7 +1,8 @@
 # So_Long
 
 # My So_Long Game
-![Screencast from 07-23-2024 02-35-57 PM](https://github.com/user-attachments/assets/c6e780f3-21ae-4802-9fea-29b0e51b7f35)
+![Screencast from 07-23-2024 02-35-57 PM (1)](https://github.com/user-attachments/assets/4eac239b-c78f-4f5b-840d-f1427cb542ad)
+
 
 # How To Play This Game
 
