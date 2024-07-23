@@ -3,7 +3,7 @@
 	<p>This project is one of the projects of the school 42 where the purpose is to build a small 2D game. You have to work with textures, sprites, and some gameplay mechanics.</p>
 </div>
 
-# My So_Long Game
+## My So_Long Game
 ![Screencast from 07-23-2024 02-35-57 PM (2)](https://github.com/user-attachments/assets/963aec88-cac0-4fe4-8219-fe8f90f93d8b)
 
 
