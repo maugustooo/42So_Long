@@ -15,7 +15,7 @@
 - After collecting a food/dumbells/steroids, the player gain muscle.
 - If you reach the goal physique(pick all collectables) you win.
 - If you pick the enemy wich is fast-food/beer/cigarretes, you lose.
-- 
+  
 # How To Play This Game
 
 To play this game, copy the URL below into iTerm/Terminal:
