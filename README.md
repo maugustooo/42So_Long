@@ -6,10 +6,6 @@
 ## My So_Long Game
 ![Screencast from 07-23-2024 02-35-57 PM (2)](https://github.com/user-attachments/assets/963aec88-cac0-4fe4-8219-fe8f90f93d8b)
 
-<div align="center">
-	<h1><a href="https://github.com/maugustooo/42So_Long/blob/main/en.subject.pdf">Subject</a></h1>
-</div>
-
 ## Features:
 - Only allow the player to exit after collecting every collectible.
 - After collecting a food/dumbells/steroids, the player gain muscle.
